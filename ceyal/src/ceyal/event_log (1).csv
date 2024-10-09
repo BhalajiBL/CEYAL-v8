@@ -1,0 +1,11 @@
+Event,Timestamp,Resource,Cost,Duration
+Start Process,2023-01-01 08:00:00,User1,100,5
+Complete Task A,2023-01-01 08:05:00,User2,50,10
+Complete Task B,2023-01-01 08:15:00,User1,75,15
+Start Process,2023-01-01 08:30:00,User3,100,7
+Complete Task A,2023-01-01 08:35:00,User2,50,12
+Complete Task B,2023-01-01 08:47:00,User1,75,20
+Start Process,2023-01-01 09:00:00,User3,100,5
+Complete Task A,2023-01-01 09:05:00,User2,50,8
+Complete Task B,2023-01-01 09:13:00,User1,75,18
+...
